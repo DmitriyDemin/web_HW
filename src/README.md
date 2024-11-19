@@ -15,5 +15,5 @@
 
 4. Создайте прототип низкой детализации.
 
-   ![prototip](D:\ОБУЧЕНИЕ\3я_четверть\web.less2\images\prototip.jpg)
+   ![prototip](images/prototip.jpg)
 
